@@ -1,3 +1,3 @@
 # yogi
 <br>
-auther Yoganand
+auther Yoganand (bhavya srinija)
